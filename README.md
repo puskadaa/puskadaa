@@ -113,6 +113,7 @@ Projetos desenvolvidos durante minha formação envolvendo:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
+</div>
 
 ---
 
