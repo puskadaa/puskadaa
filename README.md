@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou técnico em ti e gosto de transformar ideias em projetos reais.
+Sou técnico em TI e gosto de transformar ideias em projetos reais.
 
 Tenho experiência acadêmica e prática com diferentes linguagens e tecnologias,
 principalmente no desenvolvimento de aplicações, banco de dados e projetos
